@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Jack-Watt
+- 
+- 👀 I’m interested in basically all things programming, particularly web dev with an emphasis on web app and mobile application
+- 
+- 🌱 I’m currently learning ReactJS and furthering my knowledge within PHP, JS and Java.
