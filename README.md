@@ -1,5 +1,5 @@
 # 💫 About Me:
-Most of my time is spent doing university projects at the moment. But I am interesting in any kind of application development. I spend most of my time doing it to a certain extent, both mobile and web apps. Currently, I am developing an iOS app using Flutter, ExpressJS and Firebase<br><br>I'm currently learning the ins and outs of Flutter, which is a framework of Dart, and diving deeper into JavaScript<br><br>Ask me about absolutely anything!<br><br>Fun fact: I didn't start programming until my first year of university :)
+Most of my time is spent doing university projects at the moment. But I am interesting in any kind of application development. I spend most of my time doing it to a certain extent, both mobile and web apps. Currently, I am developing an iOS app using Flutter, ExpressJS and Firebase<br><br>I'm currently learning the ins and outs of Flutter, which is a framework of Dart, and diving deeper into JavaScript (namely ExpressJS) to enhance my projects.<br><br>Ask me about absolutely anything!<br><br>Fun fact: I didn't start programming until my first year of university :)
 
 
 ## 🌐 Socials:
